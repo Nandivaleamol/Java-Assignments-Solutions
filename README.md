@@ -3,3 +3,5 @@ I am Bachelor in computer Application . I would like to work as a Java developer
 
 # Jala_Technologies-Java-Assignments-Solutions
  Jala Technologies - Java Programming Language Assignment Solutions
+ Java IDE - IntelliJ idea
+ 
